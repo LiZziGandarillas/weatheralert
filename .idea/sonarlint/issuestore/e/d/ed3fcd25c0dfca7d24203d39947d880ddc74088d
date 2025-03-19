@@ -1,0 +1,31 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¬£¼ÿÿÿÿÿ8Äú«îÚ2
+c
+java:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Äú«îÚ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ìüùúÿÿÿÿ8Äú«îÚ2
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ù˜¤·øÿÿÿÿ8Äú«îÚ2
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ìÏ™ö8Äú«îÚ2
+T	java:S106("9Replace this use of System.out or System.err by a logger.(í×¾F8Äú«îÚ2
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ì…Àşÿÿÿÿ8Äú«îÚ2
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¿¨ÿÿÿÿÿ8Äú«îÚ2
+^
+java:S1854"ARemove this useless assignment to local variable "weatherLogger".(¯–ú 8Äú«îÚ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áª¾åùÿÿÿÿ8Äú«îÚ2
+O
+java:S1481"2Remove this unused "weatherLogger" local variable.(¯–ú 8Äú«îÚ2
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÒÄÓÅ8Äú«îÚ2
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(×ğÍ8Äú«îÚ2
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(‡·â‘üÿÿÿÿ8Äú«îÚ2
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(–¹×„8Äú«îÚ2
+U
+java:S1481"3Remove this unused "emergencyPanel" local variable.(ÈÔ™úşÿÿÿÿ8Äú«îÚ2
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(óã”¡ıÿÿÿÿ8Äú«îÚ2
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(·ì‹³8Äú«îÚ2
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(é«æİüÿÿÿÿ8Äú«îÚ2
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç‹¤÷ıÿÿÿÿ8Äú«îÚ2
+d
+java:S1854"BRemove this useless assignment to local variable "emergencyPanel".(ÈÔ™úşÿÿÿÿ8Äú«îÚ2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çœ¼€8Äú«îÚ2
+h
+java:S21847"FCast one of the operands of this multiplication operation to a "long".(ç·øÿÿÿÿ8Äú«îÚ2
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¢À®­üÿÿÿÿ8Äú«îÚ2
