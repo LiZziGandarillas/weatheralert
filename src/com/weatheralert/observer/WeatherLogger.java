@@ -11,7 +11,8 @@ public class WeatherLogger implements PullObserver, PushObserver {
 
     public WeatherLogger(WeatherStation weatherStation) {
         this.weatherStation = weatherStation;
-        weatherStation.registerObserver(this.weatherStation);
+        weatherStation.registerObserver((PullObserver) this);
+        weatherStation.registerObserver((PushObserver) this);
     }
 
     @Override
