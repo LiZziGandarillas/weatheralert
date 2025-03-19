@@ -34,20 +34,6 @@ public class Main {
         weatherStation.setMeasurements(22.3f, 70.1f, 1011.5f);
 
         System.out.println("\n=== FIN DE LA DEMOSTRACIÓN ===");
-        System.out.println("\nCOMPARACIÓN DE MÉTODOS:");
-        System.out.println("✅ MÉTODO FRÍO (PULL):");
-        System.out.println("  - El sujeto solo notifica que hay cambios");
-        System.out.println("  - El observador solicita explícitamente los datos");
-        System.out.println("  - Mayor autonomía del observador");
-        System.out.println("  - Menor acoplamiento");
-        System.out.println("  - Útil cuando solo se necesita una parte de los datos");
-
-        System.out.println("\n✅ MÉTODO CALIENTE (PUSH):");
-        System.out.println("  - El sujeto envía todos los datos directamente");
-        System.out.println("  - El observador recibe pasivamente los datos");
-        System.out.println("  - Mayor eficiencia en la transferencia de datos");
-        System.out.println("  - Menor código en el observador");
-        System.out.println("  - Útil cuando se necesitan todos los datos de inmediato");
     }
 
     private static void pauseExecution(int seconds) {
